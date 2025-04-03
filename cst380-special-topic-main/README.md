@@ -1,7 +1,5 @@
 # Special Topic: CoreML for Used Car Price Prediction
 
-**CST 380 - Special Topic Assignment**
-
 ## Overview
 This project explores the integration of **CoreML** into an iOS application to predict the price of a used car based on its attributes. By training a machine learning model using a dataset of used cars, we aim to develop an app in **SwiftUI** where users can input car details and receive an estimated price prediction.
 
